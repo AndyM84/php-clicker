@@ -1,0 +1,16 @@
+{
+	"name":"myClicker",
+	"description":"description",
+	"minimum-stability":"stable",
+	"license":"proprietary",
+	"authors":[
+		{
+			"name":"Andy Male",
+			"email":"mamale@outlook.com"
+		}
+	],
+	"require":{
+		"php": "^8.2",
+		"ext-mysqli":"*"
+	}
+}
